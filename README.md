@@ -23,9 +23,12 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ## Sample output format
 
 "Subject","Activity","variable","average"
+
 1,"LAYING","tBodyAcc-mean()-X",0.22159824394
+
 1,"LAYING","tBodyAcc-mean()-Y",-0.0405139534294
+
 1,"LAYING","tBodyAcc-mean()-Z",-0.11320355358
+
 ...
 
-Download the project_script.R script from github and run it.

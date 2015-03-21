@@ -19,6 +19,13 @@ Description of code found in run_analysis.R
 * dplyr
 * reshape2
 
+## Variables
+* activities dataframe - downloaded list of activities metadata
+* features dataframe - downloaded list of feature metatata
+* ndata dataframe - tidy data set containing combined test and train datasets with clean column titles.   All non mean and std measurement columns have been removed.
+* mdata dataframe - transformation of ndata dataframe that uses melt to dervie long form of data 
+* tdata dataframe - transformation of ndata dataframe that combines and averages the activity variable measurements by subject, activity, variable.
+
 ## Processing steps
 
 * Process metadata files

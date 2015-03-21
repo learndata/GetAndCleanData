@@ -4,7 +4,8 @@ library(plyr)
 library(dplyr)
 library(reshape2)
 
-setwd("C:/Users/Dan/Desktop/Coursera/Project/UCI HAR Dataset")
+# Set working directory to UCI HAR Dataset
+# setwd("C:/Users/Dan/Desktop/Coursera/Project/UCI HAR Dataset")
 
 # load features.txt into features and add 
 features <- read.table("features.txt")

@@ -7,8 +7,7 @@ Description of code found in run_analysis.R
 * Assumptions
 * Required Libraries
 * Variables
-* Downloading Data
-* Outputting Data
+* Processing algorithm
 
 ## Assumptions
 * Zip file has been downloaded and is locally available
@@ -26,7 +25,7 @@ Description of code found in run_analysis.R
 * mdata dataframe - transformation of ndata dataframe that uses melt to dervie long form of data 
 * tdata dataframe - transformation of ndata dataframe that combines and averages the activity variable measurements by subject, activity, variable.
 
-## Processing steps
+## Processing algorithm
 
 * Process metadata files
   * load features list into features dataframe

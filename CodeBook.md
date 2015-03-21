@@ -6,7 +6,7 @@ Description of code found in run_analysis.R
 
 * Assumptions
 * Required Libraries
-* Constants
+* Variables
 * Downloading Data
 * Outputting Data
 

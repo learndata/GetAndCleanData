@@ -1,7 +1,7 @@
 # Coursera Getting and Cleaning Data Course Final Project
 
 ## Overview
-This project provides the code to read in Smartphone biometric data and process it as required in the course final projeect instructions.   The documentation describing the data collection can be found at:
+This project provides the code to read in Smartphone biometric data and process it as required in the course final project instructions.   The documentation describing the data collection can be found at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 The required data can be downloaded from:
